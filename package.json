@@ -1,0 +1,10 @@
+{
+  "name": "shared-timeline-game",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Starting structure for a multiplayer game with a shared, editable timeline.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
